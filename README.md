@@ -27,7 +27,7 @@ pip install watchdog
 
 ## Uso
 
-1. Coloca los archivos que quieras convertir en la carpeta de entrada configurada.
+1. Coloca los archivos que quieras convertir en la carpeta de entrada configurada en el archivo config.json.
 2. Ejecuta el script:
 
 ```bash

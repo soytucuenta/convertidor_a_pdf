@@ -31,7 +31,7 @@ pip install watchdog
 2. Ejecuta el script:
 
 ```bash
-python convertir_a_pdf.py
+python main_cli.py
 ```
 
 3. Los PDFs generados se guardarán automáticamente en la carpeta de salida.
@@ -44,3 +44,6 @@ python convertir_a_pdf.py
 * Funciona en Windows, Linux y macOS mientras LibreOffice esté instalado.
 
 ---
+
+##
+Seguramente haga una interfaz grafica y mas funcionalidades pero para lo que lo vengo usando me sirve

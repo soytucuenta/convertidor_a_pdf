@@ -1,0 +1,6 @@
+{
+    "ruta_monitor": "./ejemplo",
+    "ruta_salida": "./pdfs",
+    "extensiones": [".xls", ".xlsx", ".doc", ".docx"],
+    "archivo_catalogo": "catalogo_conversiones.csv"
+}

@@ -1,0 +1,8 @@
+*.pdf
+*.xlsx
+*.docx
+*.pptx
+.venv/
+__pycache__/
+*.csv
+/ejemplo
